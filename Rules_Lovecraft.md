@@ -7,9 +7,12 @@ _Vampire: The Masquerade_, and the works of _H.P. Lovecraft_, among other source
 The intent is not to create an entirely new system but to merge various mechanics 
 into a **simple, flexible ruleset where narration is the primary focus**.
 
-This system has been developed and refined over **more than 20 years**, 
-adapted to a variety of settings, including _Shadowrun_, _Forgotten Realms_, 
-and many others. Here, we present a **Lovecraftian-flavored adaptation**, 
+This is not a comprehensive game manual, but rather a pamphlet that provides 
+the foundational rules you can use to create your own campaign. 
+I have used this guide to master several campaigns over the last two decades, 
+and friends and fellow gamers have often asked me to share it online. So, here it is 😃
+
+Here, I present a **Lovecraftian-flavored adaptation**, 
 designed for cosmic horror, investigation, and survival against the unknown.
 
 Due to the **flexible nature of the rules**, **Beyond the Veil** can be 
