@@ -169,7 +169,7 @@ To determine a **characteristic value** from the attributes, use this formula:
 
 ### **Permanent attribute loss**
 
-If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due to the loss of a hand), this also lowers the corresponding **characteristic** by the same amount.
+If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due to the loss of a hand), this also lowers the corresponding **characteristic** by 5 points.
 
 ## **Skills**
 
