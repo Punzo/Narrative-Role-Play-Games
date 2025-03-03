@@ -7,7 +7,7 @@ The set rules int this repository are heavily inspired by [Elish](https://www.el
 This is not a comprehensive game manual, but rather a pamphlet that provides 
 the foundational rules you can use to create your own campaign. 
 I have used this guide to master several campaigns over the last two decades, 
-and friends and fellow gamers have often asked me to share it online. So, here it is 😃
+and friends and fellow gamers have often asked me to share it online. I am not sure this can have any usefulness to anyone, but anyway here it is 😃
 
 Here, I present a [**Lovecraftian-flavored adaptation**](Rules_Lovecraft.md), designed for cosmic horror, investigation, and survival against the unknown.
 
