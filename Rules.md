@@ -1,4 +1,4 @@
-**Beyond the Veil: Cosmic Horror Roleplaying**
+# **Beyond the Veil: Cosmic Horror Roleplaying**
 
 ### **Disclaimer**
 
