@@ -147,7 +147,7 @@ For each attribute, there are specific **level descriptions**:
 - **4:** Champion level (e.g., top 5% among professionals, national or international winner)
 - **5:** Ancient level (e.g., unparalleled in the field, mythic strength)
 
-### **Attribute at character creation**
+### **Attributes at character creation**
 
 At creation, **karma points** are spent to raise attributes from their **default value of 1**. The cost to increase an attribute is as follows:
 
@@ -210,17 +210,34 @@ Key Points:
 
 By allowing such freedom, the game becomes more about **storytelling**, where skills are not just mechanical features but tools to enrich the character's journey and interaction with the world.
 
-### **Karma Points for Skills**
+### **Skill Rolls**
 
+Skills are divided into levels, ranging from **0 (untrained)** to **10**. The system is designed to allow for both narrative-driven character growth and a balanced approach to mechanical progression.
+
+When a skill is at **0** (untrained), the character suffers a **-3 penalty** to the roll. Untrained skills are inherently more difficult to perform, and penalties can escalate to **-10** depending on the context, such as extreme complexity, stress, or environmental hindrances.
+
+**Skill checks** are rolled using:  
+**d20 + Attribute + Skill Level**
+
+For example, if a player attempts to perform lockpicking with the skill **Manuality** (at level 0), they would roll a **d20**, add their **Agility** modifier (if relevant), and subtract **3** for being untrained. This makes success more difficult, but not impossible. However, if the situation is particularly challenging (e.g., an ancient, enchanted lock in a rainstorm), the penalty could be even higher, such as **-10**.
+
+### The Importance of Specificity in Skill Rolls
+
+The more **specific** a player’s description of their action, the more likely they are to succeed. This reflects a key aspect of the game: **narrative detail influences outcomes**. For instance:
+
+- **General Action:** _“I search the room for clues.”_  
+  This vague description makes it harder for the GM to determine exactly what the character is focusing on, leading to a more challenging roll.
+  
+- **Specific Action:** _“I carefully examine the desk drawers, looking for any papers that might reveal a hidden motive.”_  
+  The specificity of the action gives the GM clear criteria to judge success, making the skill roll easier and more rewarding.
+
+By focusing on the **specifics** of an action, such as carefully analyzing an object or searching in a particular way, a player helps the GM assess the outcome more clearly, often reducing penalties or enhancing the chances of success. This encourages detailed, immersive roleplaying and dynamic problem-solving, which are core to the experience of this rule-set.
+
+
+### **Karma points for skills at character creation**
 The number of karma points available to spend on skills is determined by the following formula:
 
 **(SUM of Logic, Willpower, Intuition values) × 2 \+ 10**
-
-If a skill is at **0** (untrained), it incurs a **\-3 penalty** when used.
-Untrained skills are much harder to perform, and penalties can be as high as **\-10** depending on the context.
-
-**Skill checks** are rolled using:
-**d20 \+ Attribute \+ Skill Level**
 
 ### **Edge: Rerolling Skills**
 
