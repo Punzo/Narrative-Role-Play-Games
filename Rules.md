@@ -1,8 +1,8 @@
-# **Beyond the Veil: Cosmic Horror Roleplaying**
+# **Beyond the veil: cosmic horror roleplaying**
 
-### **Disclaimer**
+## **Disclaimer**
 
-The rules of **Beyond the Veil: Cosmic Horror Roleplaying** are heavily inspired by [Elish](https://www.elish.it/it/cose-elish), 
+The rules of **Beyond the veil: cosmic horror roleplaying** are heavily inspired by [Elish](https://www.elish.it/it/cose-elish), 
 _Vampire: The Masquerade_, and the works of _H.P. Lovecraft_, among other sources. 
 The intent is not to create an entirely new system but to merge various mechanics 
 into a **simple, flexible ruleset where narration is the primary focus**.
@@ -19,7 +19,7 @@ the same: **the story is more important than the rules**.
 Mechanics exist to **enhance the narrative**, not restrict it, 
 allowing for immersive, cinematic, and dynamic storytelling.
 
-## **Preface: The Essence of Narration in Roleplaying**
+## **Preface: the essence of narration in roleplaying**
 
 Role Playing games are a unique form of storytelling where players create
 and experience a shared narrative. Unlike traditional storytelling, 
@@ -37,7 +37,7 @@ The unknown lurks at the edges of reality, and knowledge itself is dangerous.
 Characters will struggle, not only against physical threats but also against 
 their own limitations—both mental and spiritual.
 
-### **The Role of Players in Storytelling**
+### **The role of players in storytelling**
 
 Unlike traditional games where players wait for their turn to act, 
 Beyond the Veil is an active and immersive experience. 
@@ -63,7 +63,7 @@ This enhances immersion and reinforces the horror atmosphere.
 A roleplaying game is not just about what happens—it’s about how it happens 
 and how the characters experience it.
 
-### **Real-Time Combat and Fluid Action**
+### **Real-time combat and fluid action**
 
 Combat in Beyond the Veil is **not** turn-based. It does not follow a strict 
 sequence of rounds where players act one by one. Instead, the flow of battle 
@@ -99,7 +99,7 @@ It is essential that the game master **does not force a narrative**. Instead, th
 
 By focusing on **flexibility** and **player agency**, the game master helps create an immersive and engaging experience where the direction of the game is guided by **collaboration** and **interaction** rather than a fixed storyline. This encourages the players to take risks, explore different paths, and contribute to the world in a way that makes the story uniquely their own.
 
-### **A World of Horror, Mystery, and Consequences**
+### **A world of horror, Mmstery, and consequences**
 
 Beyond the Veil is not a game where characters become unstoppable warriors. Every wound weakens them, every moment of hesitation could mean death, and every secret learned carries a price. This is a game where knowledge is dangerous, power comes at a cost, and the universe is vast, terrifying, and indifferent to human existence.
 
@@ -109,9 +109,10 @@ The rules exist not to limit storytelling but to enhance it, providing a framewo
 
 The only certainty is this: the deeper you go, the darker it gets.
 
-# **Characteristics**
+# **Character sheet**
 Character sheet template link: [Character Sheet](https://docs.google.com/document/d/1cT09dZTze4uYA186N-TN0P2jmEwkjoKCN7Hpp53xlUc/edit?usp=sharing)
 
+## **Characteristics**
 **Body, Spirit, and Mind** have a maximum value of **120**. For humans:
 
 - **50** is the average value for a normal human.
@@ -119,7 +120,7 @@ Character sheet template link: [Character Sheet](https://docs.google.com/documen
 
 **Characteristics values** are determined by the **Attributes** (see below).
 
-# **Attributes**
+## **Attributes**
 
 Attributes define a character's fundamental abilities in three main categories:
 
@@ -131,7 +132,7 @@ Each attribute has an absolute **maximum value of 5**, with the **default value 
 
 - **Humans** can set **Edge** and **one other attribute** to **4**. The second attribute can be selected by the player and must be **bolded** at creation.
 
-# **Attribute Levels**
+### **Attribute levels**
 
 For each attribute, there are specific **level descriptions**:
 **Example for Strength:**
@@ -142,7 +143,7 @@ For each attribute, there are specific **level descriptions**:
 - **4:** Champion level (e.g., top 5% among professionals, national or international winner)
 - **5:** Ancient level (e.g., unparalleled in the field, mythic strength)
 
-# **Character Creation**
+### **Attribute at character creation**
 
 At creation, **karma points** are spent to raise attributes from their **default value of 1**. The cost to increase an attribute is as follows:
 
@@ -162,11 +163,11 @@ To determine a **characteristic value** from the attributes, use this formula:
 **Example:** If a character has **Strength \= 4**, **Constitution \= 3**, and **Reaction \= 2**, the Body characteristic will be:
 **(4 \+ 3 \+ 2\) × 5 \+ 20 \= 55**
 
-# **Permanent Attribute Loss**
+### **Permanent attribute loss**
 
 If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due to the loss of a hand), this also lowers the corresponding **characteristic** by the same amount.
 
-# **Skills**
+## **Skills**
 
 **Skill levels** range from **0 to 10**.
 
@@ -205,7 +206,7 @@ Key Points:
 
 By allowing such freedom, the game becomes more about **storytelling**, where skills are not just mechanical features but tools to enrich the character's journey and interaction with the world.
 
-# **Karma Points for Skills**
+### **Karma Points for Skills**
 
 The number of karma points available to spend on skills is determined by the following formula:
 
@@ -217,7 +218,7 @@ Untrained skills are much harder to perform, and penalties can be as high as **\
 **Skill checks** are rolled using:
 **d20 \+ Attribute \+ Skill Level**
 
-# **Edge: Rerolling Skills**
+### **Edge: Rerolling Skills**
 
 A character with a high **Edge** is exceptionally lucky, and this manifests in the game mechanics as the ability to **reroll** skill checks. Here’s how it works:
 
@@ -227,7 +228,7 @@ A character with a high **Edge** is exceptionally lucky, and this manifests in t
 
 However, **luck** comes with a price. Each time a player chooses to reroll, their character suffers a **5-point damage** to their **Mind** characteristic, regardless of whether **Edge** is based on the **Spirit** attribute. This damage represents the mental strain and focus required to manipulate fate itself.
 
-# **“Leveling up”**
+## **“Leveling up”**
 
 Characters can level up their **Attributes** and **Skills** over time:
 
@@ -236,7 +237,7 @@ Characters can level up their **Attributes** and **Skills** over time:
 
 If a skill is **level 0**, it cannot be leveled up until the character receives **training** or spends significant time learning on their own. Skills above level **6** cannot be advanced without specific in-game events or teacher guidance.
 
-# **Karma Points for Leveling Up:**
+### **Karma Points for Leveling Up:**
 
 The number of karma points required to level up attributes and skills is determined by:
 **FLOOR(SUM of Logic, Willpower, Intuition / 2\) \+ X**
@@ -244,7 +245,7 @@ Where **X** is a value determined by the game master for each leveling-up period
 
 Unspent **karma points** can be stored for future use.
 
-# **Qualities**
+## **Qualities**
 
 **Qualities** are special benefits (e.g., resistance to poison) or drawbacks (e.g., drug dependency).
 
@@ -431,7 +432,7 @@ First aid, medical care, or supernatural intervention can greatly improve the he
 
 # **Economy and Money**
 
-### **Example for Settings: London \~1900 (Historical British Currency System)**
+## **Example for Settings: London \~1900 (Historical British Currency System)**
 
 In the late Victorian to early Edwardian period, British currency was structured as follows:
 
@@ -447,7 +448,7 @@ relative costs, consider the following:
 - **1 Shilling** (\~**£7.50** in modern value).
 - **1 Penny** (\~**£0.625** today).
 
-### **Examples of Costs in the Setting:**
+## **Examples of Costs in the Setting:**
 
 - **Rent for a two-story house in central London**: \~**£100 per year**.
 - **To purchase the same house**: \~**£15,000**.
