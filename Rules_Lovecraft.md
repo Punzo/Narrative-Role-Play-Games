@@ -180,7 +180,7 @@ If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due 
 - The initial maximum skill value at character creation is **3**.
 - One skill can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**).
 
-**Example Skill Progression (Knowledge in Science):**
+**Example skill progression (knowledge in science):**
 
 - **1:** High School knowledge
 - **2:** Bachelor's degree
@@ -210,7 +210,7 @@ Key Points:
 
 By allowing such freedom, the game becomes more about **storytelling**, where skills are not just mechanical features but tools to enrich the character's journey and interaction with the world.
 
-### **Skill Rolls**
+### **Skill rolls**
 
 Skills are divided into levels, ranging from **0 (untrained)** to **10**. The system is designed to allow for both narrative-driven character growth and a balanced approach to mechanical progression.
 
@@ -221,14 +221,14 @@ When a skill is at **0** (untrained), the character suffers a **-3 penalty** to 
 
 For example, if a player attempts to perform lockpicking with the skill **Manuality** (at level 0), they would roll a **d20**, add their **Agility** modifier (if relevant), and subtract **3** for being untrained. This makes success more difficult, but not impossible. However, if the situation is particularly challenging (e.g., an ancient, enchanted lock in a rainstorm), the penalty could be even higher, such as **-10**.
 
-### The Importance of Specificity in Skill Rolls
+### The importance of specificity in skill rolls
 
 The more **specific** a player’s description of their action, the more likely they are to succeed. This reflects a key aspect of the game: **narrative detail influences outcomes**. For instance:
 
-- **General Action:** _“I search the room for clues.”_  
+- **General action:** _“I search the room for clues.”_  
   This vague description makes it harder for the GM to determine exactly what the character is focusing on, leading to a more challenging roll.
   
-- **Specific Action:** _“I carefully examine the desk drawers, looking for any papers that might reveal a hidden motive.”_  
+- **Specific action:** _“I carefully examine the desk drawers, looking for any papers that might reveal a hidden motive.”_  
   The specificity of the action gives the GM clear criteria to judge success, making the skill roll easier and more rewarding.
 
 By focusing on the **specifics** of an action, such as carefully analyzing an object or searching in a particular way, a player helps the GM assess the outcome more clearly, often reducing penalties or enhancing the chances of success. This encourages detailed, immersive roleplaying and dynamic problem-solving, which are core to the experience of this rule-set.
@@ -239,7 +239,7 @@ The number of karma points available to spend on skills is determined by the fol
 
 **(SUM of Logic, Willpower, Intuition values) × 2 \+ 10**
 
-### **Edge: Rerolling Skills**
+### **Edge: rerolling skills**
 
 A character with a high **Edge** is exceptionally lucky, and this manifests in the game mechanics as the ability to **reroll** skill checks. Here’s how it works:
 
@@ -258,7 +258,7 @@ Characters can level up their **Attributes** and **Skills** over time:
 
 If a skill is **level 0**, it cannot be leveled up until the character receives **training** or spends significant time learning on their own. Skills above level **6** cannot be advanced without specific in-game events or teacher guidance.
 
-### **Karma Points for Leveling Up:**
+### **Karma points for leveling up:**
 
 The number of karma points required to level up attributes and skills is determined by:
 **FLOOR(SUM of Logic, Willpower, Intuition / 2\) \+ X**
@@ -273,7 +273,7 @@ Unspent **karma points** can be stored for future use.
 - **One positive quality** can be selected at the start, but for each additional positive quality, a negative quality must also be chosen.
 - Players can create **custom qualities** and submit them to the game master for approval.
 
-# **Combat Rules**
+# **Combat rules**
 
 - **Attack:** Roll **Agility \+ skill (e.g Marksman**) against the target’s **Agility \+ Dodge**. The difference between the results determines the **vehemence** of the attack.
   - Add the **vehemence** of the weapon.
@@ -291,62 +291,62 @@ The final **vehemence** value determines the **damage inflicted**, using the fol
 |          amputation smashing          | ![Tier 5 Damage](images/Tier5Damage.png) | 41 \- 55 | 17 \- 20  |                         |
 |                mortal                 | ![Tier 6 Damage](images/Tier6Damage.png) | 8 \- 55+ |  21 \- …  |                         |
 
-## **Vehemence and Weapon Examples**
+## **Vehemence and weapon examples**
 
 Vehemence is a measure of the force or effectiveness of an attack, influenced by the weapon used, the character’s skill, and the context of the action. The description of the attack and the narrative context can modify vehemence, either increasing or decreasing its impact based on the player’s creativity and strategy.
 
 For instance:
 
-- **Two-Handed Maul with Powerful Stomp**: If a character wields a two-handed maul and performs a powerful downward stomp, the **Power** skill may be added to the vehemence of the attack. This represents not just the weight of the weapon, but the sheer force, momentum, and physical strength behind the strike.
-- **High-Caliber Firearm with Piercing Capabilities**: A high-caliber firearm might bypass or reduce the effectiveness of armor. Even well-armored targets (such as someone in full plate armor) could still be vulnerable to a well-placed bullet due to the piercing nature of the weapon.
+- **Two-handed maul with powerful stomp**: If a character wields a two-handed maul and performs a powerful downward stomp, the **Power** skill may be added to the vehemence of the attack. This represents not just the weight of the weapon, but the sheer force, momentum, and physical strength behind the strike.
+- **High-caliber firearm with piercing capabilities**: A high-caliber firearm might bypass or reduce the effectiveness of armor. Even well-armored targets (such as someone in full plate armor) could still be vulnerable to a well-placed bullet due to the piercing nature of the weapon.
 
-## **Examples of Vehemence for Weapons:**
+## **Examples of vehemence for weapons:**
 
 - Dagger: 2
 - One-Handed Sword: 4
 - Revolver: 6
 - Full Plate Armor: 8
 
-## **Strategic Combat and Narrative Focus:**
+## **Strategic combat and narrative focus:**
 
 The combination of **weapon choice**, **skills**, and **narrative context** creates dynamic, strategic combat. The **narrative description** of the attack influences its effectiveness—players can tailor their actions and use their abilities to craft the most efficient or dramatic outcomes, emphasizing creativity and tactical thinking.
 
 This approach encourages players to be detailed in describing their combat actions, ensuring that the **narrative** always enhances the strategic elements of the game.
 
-## **Additional Considerations:**
+## **Additional considerations:**
 
 - **Armor**: Armor impacts both the vehemence of incoming attacks and the character’s ability to dodge. For example:
-  - **Full Plate Armor (Vehemence: 8\)**: While it provides heavy protection, it can hinder a character's mobility, making them slower and less able to react to incoming attacks. Characters wearing full plate armor suffer a **malus to dodge rolls** due to the armor’s restrictive nature.
-- **Combat Context**: How a character describes their attack can influence its effectiveness. For example:
+  - **Full plate armor (vehemence: 8\)**: While it provides heavy protection, it can hinder a character's mobility, making them slower and less able to react to incoming attacks. Characters wearing full plate armor suffer a **malus to dodge rolls** due to the armor’s restrictive nature.
+- **Combat context**: How a character describes their attack can influence its effectiveness. For example:
   - A **finesse strike** with a **dagger** aimed at a target's unprotected weak spot might result in higher vehemence or more significant damage than a wild swing.
-  - **High Agility with a Dagger**: A character with high agility using a **dagger** might be able to bypass armor and attack **vulnerable points** of the opponent, such as joints or areas where armor does not cover. In this case, the character’s **finesse** and the precise execution of their strike can compensate for the weapon's lower base vehemence. The player’s **narrative** of the attack could describe how they target these vulnerable areas to increase the effectiveness of the attack.
-- **Dodge Rolls**: In order to roll for a **dodge**, the character must be aware of the incoming attack. This awareness can depend on various factors, such as:
-  - **Perception** or **Sixth Sense** skills: A character needs to be able to sense or perceive the threat of an incoming attack to attempt a dodge. If the character is unaware of the attack or the attacker, they cannot attempt a dodge roll. Skills like **Perception** or **Sixth Sense** are essential for noticing hidden or subtle threats, allowing the character to react and attempt to evade.
+  - **High agility with a Dagger**: A character with high agility using a **dagger** might be able to bypass armor and attack **vulnerable points** of the opponent, such as joints or areas where armor does not cover. In this case, the character’s **finesse** and the precise execution of their strike can compensate for the weapon's lower base vehemence. The player’s **narrative** of the attack could describe how they target these vulnerable areas to increase the effectiveness of the attack.
+- **Dodge rolls**: In order to roll for a **dodge**, the character must be aware of the incoming attack. This awareness can depend on various factors, such as:
+  - **Perception** or **Sixth Sense** skills: A character needs to be able to sense or perceive the threat of an incoming attack to attempt a dodge. If the character is unaware of the attack or the attacker, they cannot attempt a dodge roll. Skills like **Perception** or **Sixth sense** are essential for noticing hidden or subtle threats, allowing the character to react and attempt to evade.
 - For instance:
   - Character A might attempt to dodge an attack from Character B, but if Character A is unaware of where the attack is coming from—such as when they fail a **Perception** or **Sixth Sense** check—they cannot react in time to avoid it. This introduces a crucial layer of strategy: awareness of your environment and the threats within it is vital for survival. Without this awareness, even seemingly minor attacks can become devastating. For example, if a character is asleep and unaware of an intruder, the attacker could easily strike a fatal blow, like slashing the character’s throat, before they have any chance to defend themselves. Being caught off guard can result in severe consequences, reinforcing the importance of staying alert to your surroundings at all times.
 
-## **Example of a Combat Scenario:**
+## **Example of a combat scenario:**
 
 - **Character A** has a **high-finesse dagger** and is trying to land a precise strike on **Character B**, who is wearing **full plate armor**. Since **Character A** is skilled with the dagger and targets weak spots (such as joints or unarmored areas), the player can use **Agility \+ Melee weapon roll (with a malus depending on the difficulty in reaching the weak spot and the player description)** to bypass the armor's protective effect and increase the effectiveness of the attack.
 - **Character B**, in full plate armor (vehemence: 8), is trying to dodge (**Agility \+ Dodge)** or parry (**Agility \+ Melee weapon)** but suffers a **\-2 penalty** to dodge rolls due to the armor's weight. However, **Character B** may still attempt a dodge if they have the **Perception** or **Sixth Sense** skills to sense the attack.
 - **Character C** has a **revolver** with **piercing capabilities** (vehemence: 6\) and aims at **Character B**, knowing that the bullet can bypass the armor's defense. If **Character B** is aware of the attack and has a high **Perception** or **Sixth Sense**, they may attempt to dodge, but if they are unaware or caught off guard, they may not get the chance to react in time. For example **Character B** may have to decide to focus the defense against **Character A or Character C.**
 
-# **The Cosmic horror, psychology and the mind:**
+# **The cosmic horror, psychology and the mind:**
 
 In the world of **Lovecraftian horror**, the mind is a fragile vessel, susceptible to the unexplainable, the unimaginable, and the utterly absurd. As characters encounter the eldritch horrors, the twisted truths, and the incomprehensible forces that defy human understanding, the events they experience can shatter their mental state. These encounters—whether they are witnessing the grotesque, being confronted by forbidden knowledge, or facing forces that defy all logic—have a profound impact on a character’s psyche, resulting in **Mind Damage**.
 
-## **Mind Damage**
+## **Mind damage**
 
 When a character is exposed to something truly horrific or absurd, something beyond the reach of their comprehension, they may suffer **Mind Damage**. This damage represents the psychological strain of confronting the **Cosmic Horror**. It could be anything from staring at an incomprehensible, monstrous entity, hearing voices from the abyss, or experiencing bizarre, otherworldly phenomena that make no sense to the rational mind.
 
 Each event that causes Mind Damage should be treated as a profound, life-altering experience. The character may need to **roleplay** the effects of their deteriorating state, embodying the psychological trauma of what they’ve witnessed. This may manifest in various ways, such as paranoia, hallucinations, nightmares, dissociation, or even a complete breakdown of their sense of reality.
 
-## **Mind Damage Mechanics**
+## **Mind damage mechanics**
 
-- **Mind Damage** is tracked as a value, with each event reducing the total Mind score.
+- **Mind damage** is tracked as a value, with each event reducing the total Mind score.
 - When **Mind** reaches zero, the character falls into a **comatose state**, effectively dying or being lost to insanity. This represents the total collapse of the character's mental faculties after an overwhelming exposure to the incomprehensible.
 
-  ## **Roleplaying Mind Damage**
+  ## **Roleplaying mind damage**
 
 Players should actively **interpret** the psychological damage inflicted on their characters. This is not just a mechanical rule but an opportunity for deep character development and immersion. For example:
 
@@ -355,7 +355,7 @@ Players should actively **interpret** the psychological damage inflicted on thei
 - **Disassociation:** The character may become distant from reality, struggling to maintain their grasp on what is real and what is not. They may question if the world around them is an illusion, or if they themselves are just a figment of some greater nightmare.
 - **Obsessions or Phobias:** Some characters might fixate on specific aspects of the horrors they have faced, developing irrational obsessions or phobias. A character who once feared nothing might now be terrified of the dark, or may compulsively examine every object they encounter for hidden, unnatural properties.
 
-  ## **Dealing with Mind Damage**
+  ## **Dealing with mind damage**
 
 - **Recovery:** Just as physical damage can be healed, the mind can recover. However, mental wounds are far more difficult to treat and may require specialized therapy, or even just time to come to terms with the horrors the character has experienced. If Mind is damaged, a character must engage in introspective actions or receive help from others to recover, often by making **Willpower** or **Volition** checks to confront their fears or memories.
 - **Therapy and Rest:** Certain actions or environments may help reduce Mind Damage. Therapy, rest, or even spiritual guidance may be ways to heal or reduce the damage, but nothing short of extraordinary efforts will repair the deepest scars of the mind.
@@ -397,14 +397,14 @@ Magic is wielded through three primary skills:
      - _Spell Effect_: The spirit can be called upon for assistance but is bound to the item until the binding is broken.
      - Skill roll: **Magic** \+ **Enchanting**
 
-## **Magical Mechanics**
+## **Magical mechanics**
 
-Using magic comes with a price. Every time a spell or ritual is cast, the caster’s **Spirit** is drained. The more powerful the magic, the more it taxes the caster’s Spirit. If a character’s **Spirit** reaches zero, they experience **permanent damage** to their maximum Spirit value and may fall into the grip of the **Magic Plague**. This condition leaves the character in a weakened state, unable to recover Spirit normally and becoming more susceptible to madness (mind damages).
+Using magic comes with a price. Every time a spell or ritual is cast, the caster’s **Spirit** is drained. The more powerful the magic, the more it taxes the caster’s Spirit. If a character’s **Spirit** reaches zero, they experience **permanent damage** to their maximum Spirit value and may fall into the grip of the **Magic plague**. This condition leaves the character in a weakened state, unable to recover Spirit normally and becoming more susceptible to madness (mind damages).
 
 - **Essence** plays a role in mitigating this drain. The higher a character’s Essence, the less Spirit damage they suffer when casting powerful spells.
-- **Example**: A high-level spell like **Summon Ancient Horror** might cause 30 points of Spirit damage, but a character with high Essence could reduce this by half. Of course also a higher level in the skill (e.g. sorcery) reduces the cost.
+- **Example**: A high-level spell like **Summon ancient horror** might cause 30 points of Spirit damage, but a character with high Essence could reduce this by half. Of course also a higher level in the skill (e.g. sorcery) reduces the cost.
 
-## **The Magic Plague**
+## **The magic plague**
 
 The **Magic Plague** is a debilitating condition caused by overusing magic. The character becomes physically weak, mentally unstable, and unable to recover their Spirit normally. In extreme cases, the character may lose their ability to cast magic altogether or begin to exhibit symptoms of **Corruption**.
 
@@ -412,28 +412,28 @@ The **Magic Plague** is a debilitating condition caused by overusing magic. The 
 
 **Corruption** replaces the traditional concept of Magic for those who delve into forbidden or **dark rituals**—typically involving the **Ancients** or cosmic cults. It is a perversion of magic, where the forces used are twisted and the consequences are far more severe.
 
-- **Effects of Corruption**: When using **Corruption (instead of the Magic attribute)**, the magic takes on **distorted, horrific qualities**. Spells and rituals may yield unpredictable results—some might manifest as physical mutations, nightmares, or madness. The more the character relies on Corruption, the closer they come to madness, and the more they lose their grip on reality.
+- **Effects of corruption**: When using **Corruption (instead of the Magic attribute)**, the magic takes on **distorted, horrific qualities**. Spells and rituals may yield unpredictable results—some might manifest as physical mutations, nightmares, or madness. The more the character relies on Corruption, the closer they come to madness, and the more they lose their grip on reality.
 - The **Ancients** are ancient, god-like beings that exist beyond the mortal realm, often inhabiting the farthest reaches of space and time, or beyond the boundaries of human understanding. They are the source of knowledge and power that far exceeds anything a mere mortal could comprehend. Through interaction with the **Ancients**, certain individuals may gain access to **forbidden spells**—powers that are not known to human magic or logic. However, these gifts come at a dire price. The **Ancients** grant their followers access to **unique domains of magic**—spells and rituals that are unavailable to human knowledge. These spells are tied to cosmic forces, incomprehensible dimensions, and the fundamental laws of reality that mortals are not meant to understand. The very nature of these spells distorts reality, bringing forth entities and effects that are alien and terrifying to the human mind. The magic granted by the Ancients comes with a price far greater than the usual cost of traditional magic. To access their forbidden spells, mortals must pay a steep price, whether it be in **sanity**, **sacrifices**, or **soul-altering consequences**.
 
 1. **Sanity**:
    Each time an Ancient's spell is used, it **erodes the caster’s sanity**. The spells are beyond human comprehension, often violating the laws of physics or logic. Exposure to such knowledge leaves the caster permanently altered, and the more they use the powers granted by the Ancients, the closer they come to madness.
 2. **Sacrifices**:
    In addition to the toll on the mind, the Ancients demand **sacrifices** as payment for their gifts. These sacrifices can take many forms: life, blood, will, or even the very essence of the caster. Some spells require the sacrifice of another living being, while others demand **personal sacrifices**, such as a piece of the caster’s own **soul** or their **humanity**.
-3. **Existential Consequences**:
+3. **Existential consequences**:
    In the most extreme cases, the magic of the Ancients may alter the very **existence** of the caster. Spells in this category are the most dangerous, as they can change the fabric of reality or even remove the caster from existence entirely. Using such magic leaves an indelible mark, slowly eroding the line between **humanity** and **the unknown**.
 
-## **Specific Spell Examples**
+## **Specific spell examples**
 
-1. **Curse of Slow Decay**:
+1. **Curse of slow decay**:
    - _Effect_: The victim suffers a gradual loss of vitality, their health slowly draining over time. The caster can influence the curse’s progression with a **willpower** check to control the pace of the decay.
    - _Components_: A lock of hair from the victim, a small vial of their blood.
-2. **Nightmare Induction**:
+2. **Nightmare induction**:
    - _Effect_: The caster can invade the dreams of the target, filling their mind with horrors and dark visions. This causes the victim to suffer from **sleep deprivation** and **psychological distress** (reducing **Mind** by 1 for every two nights the spell is active).
    - _Components_: A black candle, a piece of the target's clothing.
-3. **The Binding Fetish**:
+3. **The binding fetish**:
    - _Effect_: The caster creates a fetish—a small object imbued with powerful magic—designed to trap and control spirits. The spirit bound to the object can be called upon for assistance or power.
    - _Components_: The fetish itself (an object such as a small stone or figurine), incense, and the will of the caster.
-4. **Summon the Forgotten One**:
+4. **Summon the forgotten One**:
    - _Effect_: The caster opens a portal to the **Astral Plane**, summoning a terrifying entity that exists beyond mortal comprehension. The entity may serve the caster briefly, but its presence often drives nearby witnesses to madness.
    - _Components_: Ancient texts, blood sacrifice, and a ritual circle drawn in chalk.
 
@@ -444,16 +444,16 @@ In conclusion, **magic** in this system is a dangerous, unpredictable force. Whi
 Healing in _Beyond the Veil_ is influenced by **rest, treatment, and natural resilience**. 
 The amount of damage recovered after **treatment and sleep** is proportional to the following:
 
-- **Body Recovery:** **Constitution \+ Endurance**
-- **Mind Recovery:** **Willpower \+ Volition**
-- **Spirit Recovery:** **Essence \+ Astral**
+- **Body:** **Constitution \+ Endurance**
+- **Mind:** **Willpower \+ Volition**
+- **Spirit:** **Essence \+ Astral**
 
 **Important:** Without proper treatment, **recovery is minimal**, and serious injuries may worsen over time. 
 First aid, medical care, or supernatural intervention can greatly improve the healing process.
 
-# **Economy and Money**
+# **Economy and money**
 
-## **Example for Settings: London \~1900 (Historical British Currency System)**
+## **Example for settings: London \~1900 (historical british currency system)**
 
 In the late Victorian to early Edwardian period, British currency was structured as follows:
 
@@ -469,7 +469,7 @@ relative costs, consider the following:
 - **1 Shilling** (\~**£7.50** in modern value).
 - **1 Penny** (\~**£0.625** today).
 
-## **Examples of Costs in the Setting:**
+## **Examples of costs in the setting:**
 
 - **Rent for a two-story house in central London**: \~**£100 per year**.
 - **To purchase the same house**: \~**£15,000**.
