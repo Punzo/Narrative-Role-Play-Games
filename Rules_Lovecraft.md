@@ -99,7 +99,7 @@ It is essential that the game master **does not force a narrative**. Instead, th
 
 By focusing on **flexibility** and **player agency**, the game master helps create an immersive and engaging experience where the direction of the game is guided by **collaboration** and **interaction** rather than a fixed storyline. This encourages the players to take risks, explore different paths, and contribute to the world in a way that makes the story uniquely their own.
 
-### **A world of horror, Mastery, and consequences**
+### **A world of horror, mastery, and consequences**
 
 Beyond the Veil is not a game where characters become unstoppable warriors. Every wound weakens them, every moment of hesitation could mean death, and every secret learned carries a price. This is a game where knowledge is dangerous, power comes at a cost, and the universe is vast, terrifying, and indifferent to human existence.
 
