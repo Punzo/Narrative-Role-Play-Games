@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-The set rules int this repository are heavily inspired by [Elish](https://www.elish.it/it/cose-elish), _Vampire: The Masquerade_, and the works of _H.P. Lovecraft_, among other sources. The intent is not to create an entirely new system but to merge various mechanics into a **simple, flexible ruleset where narration is the primary focus**.
+The set of rules in this repository are heavily inspired by [Elish](https://www.elish.it/it/cose-elish), _Vampire: The Masquerade_, and the works of _H.P. Lovecraft_, among other sources. The intent is not to create an entirely new system but to merge various mechanics into a **simple, flexible ruleset where narration is the primary focus**.
 
 This is not a comprehensive game manual, but rather a pamphlet that provides 
 the foundational rules you can use to create your own campaign. 
