@@ -115,6 +115,8 @@ The only certainty is this: the deeper you go, the darker it gets.
 
 # **Character sheet**
 Character sheet template link: [Character Sheet](https://docs.google.com/document/d/1cT09dZTze4uYA186N-TN0P2jmEwkjoKCN7Hpp53xlUc/edit?usp=sharing)
+In this section, I will primarily address the rules regarding statistics. However, the most important aspect of creating a character is defining their background, personality, and physical and psychological traits.
+By starting with a well-developed characterization, the choice of skills will naturally follow.
 
 ## **Characteristics**
 **Body, Spirit, and Mind** have a maximum value of **120**. For humans:
@@ -134,7 +136,7 @@ Attributes define a character's fundamental abilities in three main categories:
 
 Each attribute has an absolute **maximum value of 5**, with the **default value set at 1**. However, at character creation, attributes have specific rules for maximum values:
 
-- **Humans** can set **Edge** and **one other attribute** to **4**. The second attribute can be selected by the player and must be **bolded** at creation.
+- **Humans** can set **Edge** and **one other attribute** up to **4**. The second attribute can be selected by the player and must be **bolded** at creation.
 
 ### **Attribute levels**
 
@@ -151,6 +153,7 @@ For each attribute, there are specific **level descriptions**:
 
 At creation, **karma points** are spent to raise attributes from their **default value of 1**. The cost to increase an attribute is as follows:
 
+- 1 **karma point** to raise an attribute of 1 level (i.e., to go from 1 to 2 costs **1 karma point**, as well to go from 2 to 3).
 - The **initial maximum value** for any attribute at character creation is **3**.
 - One attribute can be set to **4** by spending **1 additional karma point** (i.e., to go from 3 to 4 costs **2 karma points**).
 
@@ -164,8 +167,8 @@ To determine a **characteristic value** from the attributes, use this formula:
 
 **SUM of points in attributes under a characteristic class × 5 \+ 20**
 
-**Example:** If a character has **Strength \= 4**, **Constitution \= 3**, and **Reaction \= 2**, the Body characteristic will be:
-**(4 \+ 3 \+ 2\) × 5 \+ 20 \= 55**
+**Example:** If a character has **Strength \= 4**, **Constitution \= 2**, **Reaction \= 2**, and **Agility \= 1**, the Body characteristic will be:
+**(4 \+ 2 \+ 2\ + 1\) × 5 \+ 20 \= 65**
 
 ### **Permanent attribute loss**
 
@@ -173,12 +176,17 @@ If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due 
 
 ## **Skills**
 
-**Skill levels** range from **0 to 10**.
+**Skill levels** range from **0 (untrained) to 10**.
 
 - The **maximum skill value** is **10**.
 - The **default value** is **0**, which represents an untrained skill.
 - The initial maximum skill value at character creation is **3**.
-- One skill can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**).
+- 1 **karma point** to raise a skill of 1 level (i.e., to go from 1 to 2 costs **1 karma point**, as well to go from 2 to 3).
+- At creation, **only** one skill can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**).
+
+The number of karma points available to spend on skills is determined by the following formula:
+
+**(SUM of Logic, Willpower, Intuition values) × 2 \+ 10**
 
 **Example skill progression (knowledge in science):**
 
@@ -212,7 +220,7 @@ By allowing such freedom, the game becomes more about **storytelling**, where sk
 
 ### **Skill rolls**
 
-Skills are divided into levels, ranging from **0 (untrained)** to **10**. The system is designed to allow for both narrative-driven character growth and a balanced approach to mechanical progression.
+The system is designed to allow for both narrative-driven character growth and a balanced approach to mechanical progression.
 
 When a skill is at **0** (untrained), the character suffers a **-3 penalty** to the roll. Untrained skills are inherently more difficult to perform, and penalties can escalate to **-10** depending on the context, such as extreme complexity, stress, or environmental hindrances.
 
@@ -220,6 +228,10 @@ When a skill is at **0** (untrained), the character suffers a **-3 penalty** to 
 **d20 + Attribute + Skill Level**
 
 For example, if a player attempts to perform lockpicking with the skill **Manuality** (at level 0), they would roll a **d20**, add their **Agility** modifier (if relevant), and subtract **3** for being untrained. This makes success more difficult, but not impossible. However, if the situation is particularly challenging (e.g., an ancient, enchanted lock in a rainstorm), the penalty could be even higher, such as **-10**.
+
+On the other hand, it is crucial for the Game Master to keep track of players' skill values. A high-level skill indicates exceptional proficiency, meaning that for simple actions, the character may not need to roll at all, or the difficulty should be significantly lower.
+
+Additionally, many skills are best handled as passive rolls by the Game Master. For instance, a player may not explicitly declare that they are on high alert, yet the Game Master can still roll for passive perception or sixth sense to determine if the character hears someone approaching. Similarly, an empathy roll could be made to assess whether an NPC is lying, enhancing immersion and realism in gameplay.
 
 ### The importance of specificity in skill rolls
 
@@ -234,11 +246,6 @@ The more **specific** a player’s description of their action, the more likely 
 By focusing on the **specifics** of an action, such as carefully analyzing an object or searching in a particular way, a player helps the GM assess the outcome more clearly, often reducing penalties or enhancing the chances of success. This encourages detailed, immersive roleplaying and dynamic problem-solving, which are core to the experience of this rule-set.
 
 
-### **Karma points for skills at character creation**
-The number of karma points available to spend on skills is determined by the following formula:
-
-**(SUM of Logic, Willpower, Intuition values) × 2 \+ 10**
-
 ### **Edge: rerolling skills**
 
 A character with a high **Edge** is exceptionally lucky, and this manifests in the game mechanics as the ability to **reroll** skill checks. Here’s how it works:
@@ -247,7 +254,7 @@ A character with a high **Edge** is exceptionally lucky, and this manifests in t
 2. If the player wants to reroll, they may use their **Edge** \+ the **Skill Level** from the original roll as the new modifier for the reroll.
 3. After the reroll, the higher of the two results (the original or the rerolled) is used as the final outcome.
 
-However, **luck** comes with a price. Each time a player chooses to reroll, their character suffers a **5-point damage** to their **Mind** characteristic, regardless of whether **Edge** is based on the **Spirit** attribute. This damage represents the mental strain and focus required to manipulate fate itself.
+However, **luck** comes with a price. Each time a player chooses to reroll, their character suffers **at least** a **5-point damage** to their **Mind** characteristic, regardless of whether **Edge** is based on the **Spirit** attribute. This damage represents the mental strain and focus required to manipulate fate itself.
 
 ## **“Leveling up”**
 
@@ -258,17 +265,24 @@ Characters can level up their **Attributes** and **Skills** over time:
 
 If a skill is **level 0**, it cannot be leveled up until the character receives **training** or spends significant time learning on their own. Skills above level **6** cannot be advanced without specific in-game events or teacher guidance.
 
+NOTE: Players and the Game Master may choose to disregard this rule.
+
+A more realistic and immersive system would require players to train specific attributes and skills over time, with level-ups occurring only after prolonged training or exceptional in-game actions. However, in my experience over the years, this method is difficult to maintain and often restricts player choices.
+
+Conversely, the point system should not be overused. If a player suddenly boosts a skill or attribute they have never used or trained, the Game Master should address this inconsistency.
+
 ### **Karma points for leveling up:**
 
 The number of karma points required to level up attributes and skills is determined by:
-**FLOOR(SUM of Logic, Willpower, Intuition / 2\) \+ X**
+**FLOOR(SUM of Logic, Willpower, Intuition) / 2\ \+ X**
 Where **X** is a value determined by the game master for each leveling-up period.
 
 Unspent **karma points** can be stored for future use.
 
+
 ## **Qualities**
 
-**Qualities** are special benefits (e.g., resistance to poison) or drawbacks (e.g., drug dependency).
+**Qualities** are special benefits (e.g., resistance to poison) or drawbacks (e.g., drug dependency). This are highly linked to the character background, personality, physical and psychological traits and they help in a deeper characterization.
 
 - **One positive quality** can be selected at the start, but for each additional positive quality, a negative quality must also be chosen.
 - Players can create **custom qualities** and submit them to the game master for approval.
@@ -319,7 +333,7 @@ This approach encourages players to be detailed in describing their combat actio
   - **Full plate armor (vehemence: 8\)**: While it provides heavy protection, it can hinder a character's mobility, making them slower and less able to react to incoming attacks. Characters wearing full plate armor suffer a **malus to dodge rolls** due to the armor’s restrictive nature.
 - **Combat context**: How a character describes their attack can influence its effectiveness. For example:
   - A **finesse strike** with a **dagger** aimed at a target's unprotected weak spot might result in higher vehemence or more significant damage than a wild swing.
-  - **High agility with a Dagger**: A character with high agility using a **dagger** might be able to bypass armor and attack **vulnerable points** of the opponent, such as joints or areas where armor does not cover. In this case, the character’s **finesse** and the precise execution of their strike can compensate for the weapon's lower base vehemence. The player’s **narrative** of the attack could describe how they target these vulnerable areas to increase the effectiveness of the attack.
+  - **High agility with a dagger**: A character with high agility using a dagger might be able to bypass armor and attack **vulnerable points** of the opponent, such as joints or areas where armor does not cover. In this case, the character’s **finesse** and the precise execution of their strike can compensate for the weapon's lower base vehemence. The player’s **narrative** of the attack could describe how they target these vulnerable areas to increase the effectiveness of the attack.
 - **Dodge rolls**: In order to roll for a **dodge**, the character must be aware of the incoming attack. This awareness can depend on various factors, such as:
   - **Perception** or **Sixth Sense** skills: A character needs to be able to sense or perceive the threat of an incoming attack to attempt a dodge. If the character is unaware of the attack or the attacker, they cannot attempt a dodge roll. Skills like **Perception** or **Sixth sense** are essential for noticing hidden or subtle threats, allowing the character to react and attempt to evade.
 - For instance:
@@ -416,7 +430,7 @@ The **Magic Plague** is a debilitating condition caused by overusing magic. The 
 - The **Ancients** are ancient, god-like beings that exist beyond the mortal realm, often inhabiting the farthest reaches of space and time, or beyond the boundaries of human understanding. They are the source of knowledge and power that far exceeds anything a mere mortal could comprehend. Through interaction with the **Ancients**, certain individuals may gain access to **forbidden spells**—powers that are not known to human magic or logic. However, these gifts come at a dire price. The **Ancients** grant their followers access to **unique domains of magic**—spells and rituals that are unavailable to human knowledge. These spells are tied to cosmic forces, incomprehensible dimensions, and the fundamental laws of reality that mortals are not meant to understand. The very nature of these spells distorts reality, bringing forth entities and effects that are alien and terrifying to the human mind. The magic granted by the Ancients comes with a price far greater than the usual cost of traditional magic. To access their forbidden spells, mortals must pay a steep price, whether it be in **sanity**, **sacrifices**, or **soul-altering consequences**.
 
 1. **Sanity**:
-   Each time an Ancient's spell is used, it **erodes the caster’s sanity**. The spells are beyond human comprehension, often violating the laws of physics or logic. Exposure to such knowledge leaves the caster permanently altered, and the more they use the powers granted by the Ancients, the closer they come to madness.
+   Each time an Ancient's spell is used, it **erodes the caster’s sanity** (mind damages). The spells are beyond human comprehension, often violating the laws of physics or logic. Exposure to such knowledge leaves the caster permanently altered, and the more they use the powers granted by the Ancients, the closer they come to madness.
 2. **Sacrifices**:
    In addition to the toll on the mind, the Ancients demand **sacrifices** as payment for their gifts. These sacrifices can take many forms: life, blood, will, or even the very essence of the caster. Some spells require the sacrifice of another living being, while others demand **personal sacrifices**, such as a piece of the caster’s own **soul** or their **humanity**.
 3. **Existential consequences**:
