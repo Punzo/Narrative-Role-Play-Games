@@ -134,9 +134,7 @@ Attributes define a character's fundamental abilities in three main categories:
 - **Spirit:** Edge, Magic, Essence, Corruption
 - **Mind:** Logic, Willpower, Intuition, Charisma
 
-Each attribute has an absolute **maximum value of 5**, with the **default value set at 1**. However, at character creation, attributes have specific rules for maximum values:
-
-- **Humans** can set **Edge** and **one other attribute** up to **4**. The second attribute can be selected by the player and must be **bolded** at creation.
+Each attribute has an absolute **maximum value of 5**, with the **default value set at 1**. **A value of 4** is the maximum natural limit for humans.
 
 ### **Attribute levels**
 
@@ -155,7 +153,7 @@ At creation, **karma points** are spent to raise attributes from their **default
 
 - 1 **karma point** to raise an attribute of 1 level (i.e., to go from 1 to 2 costs **1 karma point**, as well to go from 2 to 3).
 - The **initial maximum value** for any attribute at character creation is **3**.
-- One attribute can be set to **4** by spending **1 additional karma point** (i.e., to go from 3 to 4 costs **2 karma points**).
+- **Only one** attribute (highlight it in bold in the character sheet) can be set to **4** by spending **1 additional karma point** (i.e., to go from 3 to 4 costs **2 karma points**).
 
 The initial available karma points to spend on attributes are:
 
@@ -178,11 +176,11 @@ If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due 
 
 **Skill levels** range from **0 (untrained) to 10**.
 
-- The **maximum skill value** is **10**.
+- The **maximum skill value** for human is **7**.
 - The **default value** is **0**, which represents an untrained skill.
 - The initial maximum skill value at character creation is **3**.
 - 1 **karma point** to raise a skill of 1 level (i.e., to go from 1 to 2 costs **1 karma point**, as well to go from 2 to 3).
-- At creation, **only** one skill can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**).
+- At creation, **only** one skill (highlight it in bold in the character sheet) can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**). This selected skill can raise past the human limit of level 7.
 
 The number of karma points available to spend on skills is determined by the following formula:
 
