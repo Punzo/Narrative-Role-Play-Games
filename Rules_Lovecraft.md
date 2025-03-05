@@ -123,6 +123,8 @@ By starting with a well-developed characterization, the choice of skills will na
 
 - **50** is the average value for a normal human.
 - **80** is the maximum natural limit for humans.
+  
+Of course, special in-game events can change these limits.
 
 **Characteristics values** are determined by the **Attributes** (see below).
 
@@ -134,7 +136,7 @@ Attributes define a character's fundamental abilities in three main categories:
 - **Spirit:** Edge, Magic, Essence, Corruption
 - **Mind:** Logic, Willpower, Intuition, Charisma
 
-Each attribute has an absolute **maximum value of 5**, with the **default value set at 1**. **A value of 4** is the maximum natural limit for humans.
+Each attribute has an absolute **maximum value of 5**, with the **default value set at 1**. **A value of 4** is the maximum natural limit for humans. Of course, special in-game events can change these limits.
 
 ### **Attribute levels**
 
@@ -180,9 +182,11 @@ If a permanent loss occurs in an attribute (e.g., losing 1 point of Agility due 
 - The **default value** is **0**, which represents an untrained skill.
 - The initial maximum skill value at character creation is **3**.
 - 1 **karma point** to raise a skill of 1 level (i.e., to go from 1 to 2 costs **1 karma point**, as well to go from 2 to 3).
-- At creation, **only** one skill (highlight it in bold in the character sheet) can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**). This selected skill can raise past the human limit of level 7.
+- At creation, **only** one skill (highlight it in bold in the character sheet) can be set to **4** by spending **2 more karma points** (i.e., raising from **3 to 4** costs **3 karma points**). This selected skill can raise past the human limit of level 8.
 
-The number of karma points available to spend on skills is determined by the following formula:
+Of course, special in-game events can change these limits.
+
+The number of karma points available at creation to spend on skills is determined by the following formula:
 
 **(SUM of Logic, Willpower, Intuition values) × 2 \+ 10**
 
