@@ -424,6 +424,19 @@ Using magic comes with a price. Every time a spell or ritual is cast, the caster
 
 The **Magic Plague** is a debilitating condition caused by overusing magic. The character becomes physically weak, mentally unstable, and unable to recover their Spirit normally. In extreme cases, the character may lose their ability to cast magic altogether or begin to exhibit symptoms of **Corruption**.
 
+## **Magical detection/affinity**
+The Astral Skill grants the user the ability to detect magic, sense magical auras, and track the flow of mystical energies. More advanced practitioners can extend their awareness into the astral plane, an ethereal dimension where magic leaves imprints and traces, allowing them to follow magical signatures and uncover hidden influences. However, the astral plane is not without peril—it is home to unknown entities, illusions, and unstable forces that can disorient or even harm the unprepared traveler.
+
+### Using the Skill in Play
+This ability should be rich in sensory descriptions, immersing the player in how they experience magic. Rather than simply stating, "You sense a magical presence," the game master can enhance the atmosphere by conveying unique perceptions tied to different types of magic.
+
+### Examples of Magical Sensations
+- Fire magic: The air becomes oppressively warm, carrying the scent of burning embers and a faint crackling sound, as if distant flames were licking at unseen wood.
+- Necromancy: A chill creeps over the skin, accompanied by the stench of decay and a heavy, suffocating silence, as though the air itself is mourning.
+- Dark magic or curses: A bitter taste lingers on the tongue, like spoiled wine or iron, and shadows seem to stretch unnaturally, making the surroundings feel subtly wrong.
+- Illusion magic: A flickering sensation dances at the edge of vision, scents and sounds shifting inconsistently—one moment sweet like honey, the next sharp like vinegar.
+By using these descriptions, the Astral Skill becomes more than just a detection ability—it becomes an immersive experience that deepens the player's connection to the world and its magic.
+
 ## **Corruption: the path to madness**
 
 **Corruption** replaces the traditional concept of Magic for those who delve into forbidden or **dark rituals**—typically involving the **Ancients** or cosmic cults. It is a perversion of magic, where the forces used are twisted and the consequences are far more severe.
