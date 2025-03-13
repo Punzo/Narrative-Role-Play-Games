@@ -167,8 +167,8 @@ To determine a **characteristic value** from the attributes, use this formula:
 
 **SUM of points in attributes under a characteristic class × 5 \+ 20**
 
-**Example:** If a character has **Strength \= 4**, **Constitution \= 2**, **Reaction \= 2**, and **Agility \= 1**, the Body characteristic will be:
-**(4 \+ 2 \+ 2\ + 1\) × 5 \+ 20 \= 65**
+**Example:** If a character has **Strength \= 4**, **Constitution \= 3**, **Reaction \= 2**, and **Agility \= 1**, the Body characteristic will be:
+**(4 \+ 3 \+ 2\ + 1\) × 5 \+ 20 \= 70**
 
 ### **Permanent attribute loss**
 
