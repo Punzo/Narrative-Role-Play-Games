@@ -256,7 +256,7 @@ A character with a high **Edge** is exceptionally lucky, and this manifests in t
 2. If the player wants to reroll, they may use their **Edge** \+ the **Skill Level** from the original roll as the new modifier for the reroll.
 3. After the reroll, the higher of the two results (the original or the rerolled) is used as the final outcome.
 
-However, **luck** comes with a price. Each time a player chooses to reroll, their character suffers **at least** a **5-point damage** to their **Mind** characteristic, regardless of whether **Edge** is based on the **Spirit** attribute. This damage represents the mental strain and focus required to manipulate fate itself.
+However, **luck** comes with a price. Each time a player chooses to reroll, their character suffers **at least** a **5-point damage** to their **Mind** characteristic, regardless of whether **Edge** is based on the **Spirit** characteristic. This damage represents the mental strain and focus required to manipulate fate itself.
 
 ## **“Leveling up”**
 
