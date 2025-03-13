@@ -159,9 +159,9 @@ At creation, **karma points** are spent to raise attributes from their **default
 
 The initial available karma points to spend on attributes are:
 
-- **6 points** for the **primary characteristic**
-- **4 points** for the **secondary characteristic**
-- **2 points** for the **tertiary characteristic**
+- **7 points** for the **primary characteristic**
+- **5 points** for the **secondary characteristic**
+- **3 points** for the **tertiary characteristic**
 
 To determine a **characteristic value** from the attributes, use this formula:
 
