@@ -276,7 +276,7 @@ Conversely, the point system should not be overused. If a player suddenly boosts
 ### **Karma points for leveling up:**
 
 The number of karma points required to level up attributes and skills is determined by:
-**FLOOR(SUM of Logic, Willpower, Intuition) / 4\ \+ X**
+**FLOOR(SUM of Logic, Willpower, Intuition, Charisma) / 4\ \+ X**
 Where **X** is a value determined by the game master for each leveling-up period. **X** value should be major than the other term in the formula.
 
 Unspent **karma points** can be stored for future use.
