@@ -134,7 +134,7 @@ Attributes define a character's fundamental abilities in three main categories:
 
 - **Body:** Strength, Agility, Constitution, Reaction
 - **Spirit:** Edge, Magic, Essence, Corruption
-- **Mind:** Logic, Willpower, Intuition, Charisma
+- **Mind:** , Charisma
 
 Each attribute has an absolute **maximum value of 5**, with the **default value set at 1**. **A value of 4** is the maximum natural limit for humans. Of course, special in-game events can change these limits.
 
@@ -188,7 +188,7 @@ Of course, special in-game events can change these limits.
 
 The number of karma points available at creation to spend on skills is determined by the following formula:
 
-**(SUM of Logic, Willpower, Intuition values) × 2 \+ 10**
+**(SUM of Logic, Willpower, Intuition, Charisma values) × 2 \+ 10**
 
 **Example skill progression (knowledge in science):**
 
